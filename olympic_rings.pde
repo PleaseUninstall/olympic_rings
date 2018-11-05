@@ -30,6 +30,3 @@ stroke(255,213,0);
 strokeWeight(8);
 noFill();
 ellipse(118,96,75,75);
-
-//save function
-save("COLLIN.CHEUNG.OlympicRings.Drawing.png");
